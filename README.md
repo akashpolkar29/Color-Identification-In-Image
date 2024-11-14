@@ -25,6 +25,7 @@ Digital Design and Art: Helps designers identify and use color schemes from imag
 Brand Analysis: Analyze brand colors in images for consistency in digital marketing.
 <br>
 Educational Tools: Serve as a teaching aid in color theory and color recognition.
+<br>
 ### Technologies Used:
 1. Python
 <br>
