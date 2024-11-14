@@ -25,19 +25,13 @@ Digital Design and Art: Helps designers identify and use color schemes from imag
 Brand Analysis: Analyze brand colors in images for consistency in digital marketing.
 <br>
 Educational Tools: Serve as a teaching aid in color theory and color recognition.
-### Requirements
-Python with libraries:
+### Technologies Used:
+1. Python
 <br>
-OpenCV for image processing
+2. OpenCV 
 <br>
-NumPy for numerical operations
+3. NumPy 
 <br>
-Pandas for managing color data
+4. Pandas 
 <br>
-Color Database: A CSV file with predefined colors and their RGB/HEX values.
-### Usage
-Clone the repository and install the required libraries.
-<br>
-Run the main script and specify an image path as input.
-<br>
-View the output, which includes detected colors with their names and codes.
+5. Color Database: A CSV file with predefined colors and their RGB/HEX values.
