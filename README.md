@@ -27,6 +27,7 @@ Brand Analysis: Analyze brand colors in images for consistency in digital market
 Educational Tools: Serve as a teaching aid in color theory and color recognition.
 <br>
 ### Technologies Used:
+<br>
 1. Python
 <br>
 2. OpenCV 
