@@ -20,7 +20,6 @@ Color Matching: Each detected color is compared to a predefined set of colors to
 Output: The program generates a report or visualization showing each color’s RGB and HEX values along with the common name.
 ### Applications
 <br>
-gyu
 Digital Design and Art: Helps designers identify and use color schemes from images.
 <br>
 Brand Analysis: Analyze brand colors in images for consistency in digital marketing.
