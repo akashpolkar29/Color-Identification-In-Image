@@ -1,6 +1,6 @@
 import cv2
 import pandas as pd
-s
+
 # File paths
 img_path = r"E:\Projects\Color Identification in Images\Image.jpg"
 csv_path = r"E:\Projects\Color Identification in Images\colors (1).csv"
